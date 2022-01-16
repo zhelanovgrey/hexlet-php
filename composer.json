@@ -1,0 +1,10 @@
+{
+    "name": "hexlet/hello-world",
+    "authors": [
+        {
+            "name": "Sergey Zhelanov",
+            "email": "zhelanovgrey@gmail.com"
+        }
+    ],
+    "require": {}
+}
